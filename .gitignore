@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+.venv/
+venv/
+.env
+client_secrets.json
+bot_data.db
+__pycache__/
