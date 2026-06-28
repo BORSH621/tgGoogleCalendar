@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠 Технический стек и требования
+## Технический стек и требования
 
 * **Язык программирования:** Python 3.10+
 * **Основные библиотеки:** `aiogram` (3.x), `apscheduler`, `google-api-python-client`, `google-auth-oauthlib`, `python-dotenv`, `PySocks`
